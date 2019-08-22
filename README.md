@@ -1,7 +1,7 @@
 # Allocated
 An iOS budgeting application for you to effortlessly keep track of your weekly allocations.
 
-Authors: [@nevinjojo](github.com/nevinjojo) and [@nikolaibain](https://github.com/nikolaibain)
+Authors: [@nevinjojo](https://github.com/nevinjojo) and [@nikolaibain](https://github.com/nikolaibain)
 
 ### Iteration Plans:
 ### Iteration Uno: Leftover amount calculator & Categories
